@@ -1,5 +1,6 @@
 # PROJECT ON C PROGRAMMING LANGUAGE
 ## This project was carried out in pairs betweeen
+
 - Hammad Olamilekan and
 - Godwin Moses Chukwudi
 
@@ -12,9 +13,9 @@
 
 ## The general requirement of the project are;
 
- - Allowed editors: vi, vim, emacs
- - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
- - All your files should end with a new line
+ - The editors are: vi, vim, emacs
+ - All the files must be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+ - All the files must end with a new line
  - A README.md file must be present at the root of the folder of the project.
  - The code should use the Betty style. It must be checked using betty-style.pl and betty-doc.pl
  - The use of global variables is not allowed
